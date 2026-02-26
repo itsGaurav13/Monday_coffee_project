@@ -1,5 +1,9 @@
 # ☕ Monday Coffee SQL Analysis Project
 
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/dfa21870-ddff-4f1b-a66b-2a31f55eaff9" />
+
+
+
 ## 📌 Project Overview
 
 The **Monday Coffee SQL Project** focuses on analyzing coffee shop sales data using SQL to generate meaningful business insights specifically for Monday sales trends. This project demonstrates strong SQL skills including data aggregation, filtering, grouping, and time-based analysis.
