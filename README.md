@@ -69,7 +69,7 @@ Monday-Coffee-SQL-Project/
 
 * SQL Joins & Aggregations
 * GROUP BY & ORDER BY clauses
-* Date & Time Functions
+* Date & Time Functions 
 * Business Data Analysis
 * Real-world Sales Insights Generation
 
