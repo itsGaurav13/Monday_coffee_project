@@ -1,58 +1,86 @@
-# Monday_coffee_project
+# ☕ Monday Coffee SQL Analysis Project
 
-#Objective
+## 📌 Project Overview
 
-The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
+The **Monday Coffee SQL Project** focuses on analyzing coffee shop sales data using SQL to generate meaningful business insights specifically for Monday sales trends. This project demonstrates strong SQL skills including data aggregation, filtering, grouping, and time-based analysis.
 
-Key Questions
+---
 
-Coffee Consumers Count
-How many people in each city are estimated to consume coffee, given that 25% of the population does?
+## 🎯 Objectives
 
-Total Revenue from Coffee Sales
-What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
+* Calculate total revenue generated on Mondays
+* Identify the most popular coffee products
+* Determine peak order hours on Mondays
+* Analyze category-wise revenue contribution
+* Compute average order value for better business insights
 
-Sales Count for Each Product
-How many units of each coffee product have been sold?
+---
 
-Average Sales Amount per City
-What is the average sales amount per customer in each city?
+## 🛠️ Tools & Technologies
 
-City Population and Coffee Consumers
-Provide a list of cities along with their populations and estimated coffee consumers.
+* SQL (MySQL / PostgreSQL)
+* CSV Dataset
+* GitHub for version control
+* Data Analysis using Aggregations & Joins
 
-Top Selling Products by City
-What are the top 3 selling products in each city based on sales volume?
+---
 
-Customer Segmentation by City
-How many unique customers are there in each city who have purchased coffee products?
+## 📊 Key SQL Analysis
 
-Average Sale vs Rent
-Find each city and their average sale per customer and avg rent per customer
+The project includes SQL queries to:
 
-Monthly Sales Growth
-Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+* Measure Monday sales performance
+* Find top-selling coffee products
+* Analyze hourly order trends
+* Evaluate revenue by product category
+* Calculate average customer spending
 
-Market Potential Analysis
-Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer
+---
 
-Recommendations
-After analyzing the data, the recommended top three cities for new store openings are:
+## 📁 Project Structure
 
-#City 1: Pune
+```
+Monday-Coffee-SQL-Project/
+│── monday_coffee_analysis.sql   # SQL queries for analysis
+│── dataset/                     # CSV dataset files
+│── README.md                    # Project documentation
+```
 
-Average rent per customer is very low.
-Highest total revenue.
-Average sales per customer is also high.
+---
 
-#City 2: Delhi
+## 🚀 How to Run the Project
 
-Highest estimated coffee consumers at 7.7 million.
-Highest total number of customers, which is 68.
-Average rent per customer is 330 (still under 500).
+1. Import the CSV dataset into your SQL database
+2. Open and execute the queries from `monday_coffee_analysis.sql`
+3. Review the outputs to generate business insights
 
-#City 3: Jaipur
+---
 
-Highest number of customers, which is 69.
-Average rent per customer is very low at 156.
-Average sales per customer is better at 11.6k.
+## 📈 Insights Gained
+
+* Identified highest selling coffee items on Mondays
+* Determined peak order time for workforce optimization
+* Analyzed revenue contribution by product category
+* Evaluated customer purchase behavior using average order value
+
+---
+
+## 💡 Skills Demonstrated
+
+* SQL Joins & Aggregations
+* GROUP BY & ORDER BY clauses
+* Date & Time Functions
+* Business Data Analysis
+* Real-world Sales Insights Generation
+
+---
+
+## 👨‍💻 Author
+
+**Gaurav Singh**
+Aspiring Data Analyst | SQL | Python | Data Visualization
+
+---
+
+⭐ If you like this project, consider giving it a star!
+
